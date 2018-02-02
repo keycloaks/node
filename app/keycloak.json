@@ -1,0 +1,8 @@
+{
+  "realm": "node",
+  "auth-server-url": "http://sso.tzion.me/auth",
+  "ssl-required": "external",
+  "resource": "node",
+  "public-client": true,
+  "confidential-port": 0
+}
